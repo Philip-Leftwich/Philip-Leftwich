@@ -12,5 +12,7 @@ ____________________
   
 <a href="">[![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/philip-leftwich-117052155/)</a>
 
+<img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Philip%20Leftwich%20webpage&up_color=blue&up_message=online&url=https%3A%2F%2Fphilip-leftwich.github.io%2F">
+
 p.leftwich@uea.ac.uk
 
