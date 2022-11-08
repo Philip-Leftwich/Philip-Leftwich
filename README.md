@@ -7,12 +7,13 @@ I'm an Associate Professor 🎓 at the [University of East Anglia](https://resea
 
 ____________________
 ## 📫 How to reach me 
-  
-<a href=""><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Dhttps%253A%252F%252Ftwitter.com%252FPhilipLeftwich"></a>
+
+<a href="">[![General Badge](https://img.shields.io/twitter/follow/PhilipLeftwich?style=social)](https://twitter.com/philipleftwich)</a>
+
   
 <a href="">[![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/philip-leftwich-117052155/)</a>
 
-<img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Philip%20Leftwich%20webpage&up_color=blue&up_message=online&url=https%3A%2F%2Fphilip-leftwich.github.io%2F">
+<a href="">[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=philipleftwich%20webpage&up_color=blue&up_message=online&url=https%3A%2F%2Fphilip-leftwich.github.io%2F)](https://philip-leftwich.github.io/)
 
 p.leftwich@uea.ac.uk
 
