@@ -8,8 +8,9 @@ I'm an Associate Professor 🎓 at the [University of East Anglia](https://resea
 ____________________
 ## 📫 How to reach me 
 
-<a href="">[![General Badge](https://img.shields.io/twitter/follow/PhilipLeftwich?style=social)](https://twitter.com/philipleftwich)</a>
+<a href="">[![General Badge](https://img.shields.io/badge/follow-%40{Philip-Leftwich}-1DA1F2?logo=twitter&style={style})](https://twitter.com/philipleftwich)</a>
 
+  
   
 <a href="">[![General Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/philip-leftwich-117052155/)</a>
 
